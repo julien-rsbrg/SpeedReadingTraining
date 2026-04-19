@@ -2,7 +2,16 @@
 
 This app trains you to read faster and more effectively through a series of progressive exercises.
 
-**How to get started**
+
+**How to start the app**
+
+Install the necessary packages (TODO to clarify).
+
+Run:
+`python3 -m dash_src.app`
+
+
+**How to get started in the app**
 
 1. Go to the **Text input** page and select a text file to work with.
 2. Pick an exercise below and follow its instructions.
