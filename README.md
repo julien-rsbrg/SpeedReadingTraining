@@ -7,6 +7,9 @@ This app trains you to read faster and more effectively through a series of prog
 
 Install the necessary packages (TODO to clarify).
 
+Add the texts you want to study in texts. 
+- "texts/peripheral_vision" is meant for peripheral vision exercise. See examples for the format to use.
+
 Run:
 `python3 -m dash_src.app`
 
